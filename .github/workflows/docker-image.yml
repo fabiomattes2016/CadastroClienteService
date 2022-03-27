@@ -2,7 +2,7 @@ nname: Build And Publish Docker Image
 
 on:
   push:
-    branches: [ main ]
+    branches: [ v1 ]
 
 jobs:
 
